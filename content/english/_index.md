@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Next Cloud Steps: "
+  title: "Next Cloud Steps "
   content: "Helping small and medium businesses to improve their web applications, reduce costs, and boost performance. Optimize your cloud journey."
   # image: "/images/banner.png"
   button:
