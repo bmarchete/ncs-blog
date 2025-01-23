@@ -1,9 +1,9 @@
 ---
 # Banner
 banner:
-  title: "Next Cloud Steps: Optimizing Your Web Journey"
-  content: "Empowering small and medium businesses to streamline their web applications, reduce costs, and boost performance. Your next step to a smarter cloud setup starts here."
-  image: "/images/banner.png"
+  title: "Next Cloud Steps: "
+  content: "Helping small and medium businesses to improve their web applications, reduce costs, and boost performance. Optimize your cloud journey."
+  # image: "/images/banner.png"
   button:
     enable: true
     label: "Get Started Today"
