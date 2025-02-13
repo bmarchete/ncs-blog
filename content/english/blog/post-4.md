@@ -6,7 +6,7 @@ meta_title: "Key Challenges in Building a Web Platform"
 
 description: "Discover the top obstacles businesses face when setting up a web platform and learn how to overcome them."
 
-date: 2025-01-21T05:00:00Z
+date: 2024-01-21T05:00:00Z
 
 image: "/images/web-platform-challenges.png"
 

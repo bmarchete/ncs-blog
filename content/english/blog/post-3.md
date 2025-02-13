@@ -6,7 +6,7 @@ meta_title: "AWS Cost Savings for Businesses"
 
 description: "Learn how to leverage AWS to optimize your infrastructure and save costs."
 
-date: 2025-01-21T05:00:00Z
+date: 2024-02-10T05:00:00Z
 
 image: "/images/aws-placeholder.png"
 
