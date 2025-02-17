@@ -1,12 +1,12 @@
 ---
 title: "How Trump’s 2025 Election Could Impact Your Small Business — and How AI Can Help"
-meta_title: "Digital Presence: A Lifeline for Small Businesses"
-description: "Discover why a digital presence is essential for your small business and how to take the first step."
+meta_title: "Navigating Policy Changes and Leveraging AI for Small Businesses"
+description: "Learn how Trump’s 2025 election policies could affect your small business and how AI can help you adapt and thrive."
 date: 2025-02-17T00:00:00Z
 author: "Next Cloud Steps"
 image: "/images/post-7.webp"
-categories: ["Web Development", "Business Solutions"]
-tags: ["digital", "small business", "web presence"]
+categories: ["Small Business", "AI Solutions", "Policy Impact"]
+tags: ["Trump 2025", "small business", "AI", "trade policies", "automation"]
 draft: false
 ---
 
