@@ -17,6 +17,7 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 defaultContentLanguage = 'en'
 # defaultContentLanguageInSubdir need to be true if you want to use the language code as a subdirectory and language specific 404 page
 defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
 
 ########################### Services #############################
 [services]
@@ -128,6 +129,10 @@ baseName = "searchindex"
 isPlainText = true
 notAlternative = true
 
+[outputFormats.Robots]
+  mediaType = "text/plain"
+  baseName = "robots"
+  isPlainText = true
 
 ############################# Plugins ##############################
 
