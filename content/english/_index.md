@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Transform Your Web Setup"
-    image: "/images/service-1.png"
+    image: "/images/service-1.webp"
     content: "At Next Cloud Steps, we specialize in optimizing your website or web application setup. From cost savings to streamlined workflows, we ensure your business operates at peak efficiency."
     bulletpoints:
       - "Save on cloud hosting and operational costs."
@@ -26,7 +26,7 @@ features:
       link: ""
 
   - title: "Comprehensive Training for Your Team"
-    image: "/images/service-2.png"
+    image: "/images/service-2.webp"
     content: "Equip your software engineers with the skills they need to maintain and grow your digital infrastructure."
     bulletpoints:
       - "Hands-on training for modern CI/CD tools."
@@ -38,7 +38,7 @@ features:
       link: "/services"
 
   - title: "Achieve Business Goals with Expert Consulting"
-    image: "/images/service-3.png"
+    image: "/images/service-3.webp"
     content: "We work closely with your team to identify opportunities, implement solutions, and achieve measurable results."
     bulletpoints:
       - "Deep dives into your current setup with actionable insights."
