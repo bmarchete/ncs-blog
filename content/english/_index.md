@@ -33,7 +33,7 @@ features:
       - "Best practices for web performance optimization."
       - "Custom workshops tailored to your business needs."
     button:
-      enable: true
+      enable: false
       label: "Learn More"
       link: "/services"
 
