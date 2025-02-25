@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "Next Cloud Steps"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -31,7 +31,7 @@ custom_script = ""
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
-enable = false
+enable = true
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
@@ -61,10 +61,10 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+keywords = ["Cloud consulting services", "Web application optimization", "Small business digital transformation", "Cloud hosting savings"]
+description = "Next Cloud Steps offers innovative cloud consulting and performance optimization services designed to help businesses reduce costs, enhance scalability, and drive digital transformation. Our expert team delivers tailored strategies—from CI/CD automation and web infrastructure consulting to custom workshops—empowering organizations of all sizes to achieve operational excellence and a stronger online presence."
+author = "Jay Marc"
+twitter = ""
 image = "images/og-image.png"
 
 
