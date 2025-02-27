@@ -113,8 +113,6 @@ Trump’s policies will test small businesses’ resilience, but AI provides a l
 
 **Next Cloud Steps** is here to guide you every step of the way. Let us help you build a stronger digital presence and prepare for the future.  
 
-*Need help getting started? Explore free AI tools like **Canva Magic Write** (for marketing) or **Zoho Inventory** (for logistics). The future belongs to those who adapt—today.*  
-
 ---  
 **Sources**: [ASBN](https://www.asbn.com) | [Global News](https://globalnews.ca) | [Queen’s Law](https://law.queensu.ca) | [PwC Canada](https://www.pwc.com) | [Forbes](https://www.forbes.com)  
 *Disclaimer: This blog post is for informational purposes only. Consult a professional for tailored advice.*  
